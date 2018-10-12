@@ -1,0 +1,16 @@
+PODS:
+  - smasekgw2018 (0.1.0)
+
+DEPENDENCIES:
+  - smasekgw2018 (from `../`)
+
+EXTERNAL SOURCES:
+  smasekgw2018:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  smasekgw2018: 483d76d54370c1cdc3a4e18c474943a5538f4606
+
+PODFILE CHECKSUM: 9e83db8b84b38eb6a0b966bb038ef871f5c3c3f3
+
+COCOAPODS: 1.5.3

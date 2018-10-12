@@ -1,0 +1,6 @@
+framework module smasekgw2018 {
+  umbrella header "smasekgw2018-umbrella.h"
+
+  export *
+  module * { export * }
+}

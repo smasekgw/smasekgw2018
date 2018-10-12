@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'smasekgw2018_Example' do
+  pod 'smasekgw2018', :path => '../'
+
+  target 'smasekgw2018_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
